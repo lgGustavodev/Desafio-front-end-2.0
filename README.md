@@ -24,7 +24,7 @@ Este é a versão 2.0 do projeto de cadastro de fornecedores e produtos, desenvo
 - Cadastro completo de fornecedor com validações obrigatórias  
 - Preenchimento automático de endereço via API CEP  
 - Inclusão dinâmica de produtos com cálculo automático do valor total  
-- Gerenciamento de anexos (upload, visualização, download e remoção)  
+- Gerenciamento de anexos e deixa salvo em nemoria (upload, visualização, download e remoção)  
 - Geração e exibição de JSON com os dados cadastrados  
 - Interface moderna e responsiva com Bootstrap  
 
